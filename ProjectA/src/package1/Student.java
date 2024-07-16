@@ -12,6 +12,6 @@ public class Student
 	 Student abc=new Student();
 	 abc.display();
 	 abc.deepak=334;
-	 System.out.println("Value of deepak "+abc.deepaktru);
+	 System.out.println("Value of deepak "+abc.deepak);
 	}
 }
